@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("MAPPER - Mass And Power Parameters Estimation Resource 🚀")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "This is an automated tool to calculate high-level system budgets for Pixxel's future missions and to generate technical proposals."
 )
